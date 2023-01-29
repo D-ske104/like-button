@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.css'; // ここでcssを読み込んでいる
 
 function App() {
   return (
